@@ -1,0 +1,337 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{15BB0936-A1A1-4B50-B2EB-27BA3EA92D0D}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>CapaVistaInventario</RootNamespace>
+    <AssemblyName>CapaVistaInventario</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>C:\Users\azael\Desktop\Proyecto inventario\aplicacion inventario\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>6</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>0D7439E8F958B46F4E10058D81BF367EAF7A0FFD</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>CapaVistaInventario_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>true</SignManifests>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CapaControladorInventario">
+      <HintPath>..\CapaControladorInventario\bin\Debug\CapaControladorInventario.dll</HintPath>
+    </Reference>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Shared, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="NavegadorVista">
+      <HintPath>..\..\..\Componentes\Navegador\Vista\bin\Debug\NavegadorVista.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ayuda_productos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ayuda_productos.Designer.cs">
+      <DependentUpon>ayuda_productos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ayuda_restock.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ayuda_restock.Designer.cs">
+      <DependentUpon>ayuda_restock.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ayuda_venta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ayuda_venta.Designer.cs">
+      <DependentUpon>ayuda_venta.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="login.Designer.cs">
+      <DependentUpon>login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="mantenimiento_categoria.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="mantenimiento_categoria.Designer.cs">
+      <DependentUpon>mantenimiento_categoria.cs</DependentUpon>
+    </Compile>
+    <Compile Include="mantenimiento_compras.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="mantenimiento_compras.Designer.cs">
+      <DependentUpon>mantenimiento_compras.cs</DependentUpon>
+    </Compile>
+    <Compile Include="mantenimiento_producto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="mantenimiento_producto.Designer.cs">
+      <DependentUpon>mantenimiento_producto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="mantenimiento_proveedor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="mantenimiento_proveedor.Designer.cs">
+      <DependentUpon>mantenimiento_proveedor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="mantenimiento_ventas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="mantenimiento_ventas.Designer.cs">
+      <DependentUpon>mantenimiento_ventas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="proceso_restock.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="proceso_restock.Designer.cs">
+      <DependentUpon>proceso_restock.cs</DependentUpon>
+    </Compile>
+    <Compile Include="proceso_venta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="proceso_venta.Designer.cs">
+      <DependentUpon>proceso_venta.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="reportecategoria.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="reportecategoria.Designer.cs">
+      <DependentUpon>reportecategoria.cs</DependentUpon>
+    </Compile>
+    <Compile Include="reportecompras.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="reportecompras.Designer.cs">
+      <DependentUpon>reportecompras.cs</DependentUpon>
+    </Compile>
+    <Compile Include="reporteproducto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="reporteproducto.Designer.cs">
+      <DependentUpon>reporteproducto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="reporteproveedor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="reporteproveedor.Designer.cs">
+      <DependentUpon>reporteproveedor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="reporteventascs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="reporteventascs.Designer.cs">
+      <DependentUpon>reporteventascs.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reporte_categoria.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Reporte_categoria.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Reporte_compras.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Reporte_compras.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Reporte_productos.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Reporte_productos.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Reporte_proveedor.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Reporte_proveedor.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Reporte_ventas.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Reporte_ventas.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <EmbeddedResource Include="ayuda_productos.resx">
+      <DependentUpon>ayuda_productos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ayuda_restock.resx">
+      <DependentUpon>ayuda_restock.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ayuda_venta.resx">
+      <DependentUpon>ayuda_venta.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="login.resx">
+      <DependentUpon>login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="mantenimiento_categoria.resx">
+      <DependentUpon>mantenimiento_categoria.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="mantenimiento_compras.resx">
+      <DependentUpon>mantenimiento_compras.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="mantenimiento_producto.resx">
+      <DependentUpon>mantenimiento_producto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="mantenimiento_proveedor.resx">
+      <DependentUpon>mantenimiento_proveedor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="mantenimiento_ventas.resx">
+      <DependentUpon>mantenimiento_ventas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="proceso_restock.resx">
+      <DependentUpon>proceso_restock.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="proceso_venta.resx">
+      <DependentUpon>proceso_venta.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="reportecategoria.resx">
+      <DependentUpon>reportecategoria.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="reportecompras.resx">
+      <DependentUpon>reportecompras.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="reporteproducto.resx">
+      <DependentUpon>reporteproducto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="reporteproveedor.resx">
+      <DependentUpon>reporteproveedor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="reporteventascs.resx">
+      <DependentUpon>reporteventascs.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reporte_categoria.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>Reporte_categoria.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reporte_compras.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>Reporte_compras.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reporte_productos.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>Reporte_productos.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reporte_proveedor.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>Reporte_proveedor.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reporte_ventas.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>Reporte_ventas.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="CapaVistaInventario_TemporaryKey.pfx" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Imagen3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{C0C07587-41A7-46C8-8FBD-3F9C8EBE2DDC}" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.7.2">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.7.2 %28x86 y x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

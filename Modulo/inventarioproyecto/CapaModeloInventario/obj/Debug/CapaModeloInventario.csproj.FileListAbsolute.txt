@@ -1,0 +1,12 @@
+C:\Users\azael\source\repos\inventarioproyecto\CapaModeloInventario\bin\Debug\CapaModeloInventario.dll
+C:\Users\azael\source\repos\inventarioproyecto\CapaModeloInventario\bin\Debug\CapaModeloInventario.pdb
+C:\Users\azael\source\repos\inventarioproyecto\CapaModeloInventario\obj\Debug\CapaModeloInventario.csproj.AssemblyReference.cache
+C:\Users\azael\source\repos\inventarioproyecto\CapaModeloInventario\obj\Debug\CapaModeloInventario.csproj.CoreCompileInputs.cache
+C:\Users\azael\source\repos\inventarioproyecto\CapaModeloInventario\obj\Debug\CapaModeloInventario.dll
+C:\Users\azael\source\repos\inventarioproyecto\CapaModeloInventario\obj\Debug\CapaModeloInventario.pdb
+C:\Users\azael\Desktop\Proyecto inventario\Modulo\inventarioproyecto\CapaModeloInventario\bin\Debug\CapaModeloInventario.dll
+C:\Users\azael\Desktop\Proyecto inventario\Modulo\inventarioproyecto\CapaModeloInventario\bin\Debug\CapaModeloInventario.pdb
+C:\Users\azael\Desktop\Proyecto inventario\Modulo\inventarioproyecto\CapaModeloInventario\obj\Debug\CapaModeloInventario.csproj.AssemblyReference.cache
+C:\Users\azael\Desktop\Proyecto inventario\Modulo\inventarioproyecto\CapaModeloInventario\obj\Debug\CapaModeloInventario.csproj.CoreCompileInputs.cache
+C:\Users\azael\Desktop\Proyecto inventario\Modulo\inventarioproyecto\CapaModeloInventario\obj\Debug\CapaModeloInventario.dll
+C:\Users\azael\Desktop\Proyecto inventario\Modulo\inventarioproyecto\CapaModeloInventario\obj\Debug\CapaModeloInventario.pdb

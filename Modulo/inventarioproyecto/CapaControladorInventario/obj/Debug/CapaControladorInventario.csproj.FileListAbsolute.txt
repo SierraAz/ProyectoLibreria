@@ -1,0 +1,18 @@
+C:\Users\azael\source\repos\inventarioproyecto\CapaControladorInventario\bin\Debug\CapaControladorInventario.dll
+C:\Users\azael\source\repos\inventarioproyecto\CapaControladorInventario\bin\Debug\CapaControladorInventario.pdb
+C:\Users\azael\source\repos\inventarioproyecto\CapaControladorInventario\obj\Debug\CapaControladorInventario.csproj.AssemblyReference.cache
+C:\Users\azael\source\repos\inventarioproyecto\CapaControladorInventario\obj\Debug\CapaControladorInventario.csproj.CoreCompileInputs.cache
+C:\Users\azael\source\repos\inventarioproyecto\CapaControladorInventario\obj\Debug\CapaControladorInventario.dll
+C:\Users\azael\source\repos\inventarioproyecto\CapaControladorInventario\obj\Debug\CapaControladorInventario.pdb
+C:\Users\azael\source\repos\inventarioproyecto\CapaControladorInventario\bin\Debug\CapaModeloInventario.dll
+C:\Users\azael\source\repos\inventarioproyecto\CapaControladorInventario\bin\Debug\CapaModeloInventario.pdb
+C:\Users\azael\source\repos\inventarioproyecto\CapaControladorInventario\obj\Debug\CapaControladorInventario.csproj.CopyComplete
+C:\Users\azael\Desktop\Proyecto inventario\Modulo\inventarioproyecto\CapaControladorInventario\bin\Debug\CapaControladorInventario.dll
+C:\Users\azael\Desktop\Proyecto inventario\Modulo\inventarioproyecto\CapaControladorInventario\bin\Debug\CapaControladorInventario.pdb
+C:\Users\azael\Desktop\Proyecto inventario\Modulo\inventarioproyecto\CapaControladorInventario\bin\Debug\CapaModeloInventario.dll
+C:\Users\azael\Desktop\Proyecto inventario\Modulo\inventarioproyecto\CapaControladorInventario\bin\Debug\CapaModeloInventario.pdb
+C:\Users\azael\Desktop\Proyecto inventario\Modulo\inventarioproyecto\CapaControladorInventario\obj\Debug\CapaControladorInventario.csproj.AssemblyReference.cache
+C:\Users\azael\Desktop\Proyecto inventario\Modulo\inventarioproyecto\CapaControladorInventario\obj\Debug\CapaControladorInventario.csproj.CoreCompileInputs.cache
+C:\Users\azael\Desktop\Proyecto inventario\Modulo\inventarioproyecto\CapaControladorInventario\obj\Debug\CapaControladorInventario.csproj.CopyComplete
+C:\Users\azael\Desktop\Proyecto inventario\Modulo\inventarioproyecto\CapaControladorInventario\obj\Debug\CapaControladorInventario.dll
+C:\Users\azael\Desktop\Proyecto inventario\Modulo\inventarioproyecto\CapaControladorInventario\obj\Debug\CapaControladorInventario.pdb

@@ -1,0 +1,91 @@
+C:\Users\azael\source\repos\inventarioproyecto\CapaVistaInventario\bin\Debug\CapaVistaInventario.exe.config
+C:\Users\azael\source\repos\inventarioproyecto\CapaVistaInventario\bin\Debug\CapaVistaInventario.exe
+C:\Users\azael\source\repos\inventarioproyecto\CapaVistaInventario\bin\Debug\CapaVistaInventario.pdb
+C:\Users\azael\source\repos\inventarioproyecto\CapaVistaInventario\obj\Debug\CapaVistaInventario.csproj.AssemblyReference.cache
+C:\Users\azael\source\repos\inventarioproyecto\CapaVistaInventario\obj\Debug\CapaVistaInventario.Form1.resources
+C:\Users\azael\source\repos\inventarioproyecto\CapaVistaInventario\obj\Debug\CapaVistaInventario.Properties.Resources.resources
+C:\Users\azael\source\repos\inventarioproyecto\CapaVistaInventario\obj\Debug\CapaVistaInventario.csproj.GenerateResource.cache
+C:\Users\azael\source\repos\inventarioproyecto\CapaVistaInventario\obj\Debug\CapaVistaInventario.csproj.CoreCompileInputs.cache
+C:\Users\azael\source\repos\inventarioproyecto\CapaVistaInventario\obj\Debug\CapaVistaInventario.exe
+C:\Users\azael\source\repos\inventarioproyecto\CapaVistaInventario\obj\Debug\CapaVistaInventario.pdb
+C:\Users\azael\source\repos\inventarioproyecto\CapaVistaInventario\bin\Debug\CapaControladorInventario.dll
+C:\Users\azael\source\repos\inventarioproyecto\CapaVistaInventario\bin\Debug\CapaControladorInventario.pdb
+C:\Users\azael\source\repos\inventarioproyecto\CapaVistaInventario\obj\Debug\CapaVistaInventario.csproj.CopyComplete
+C:\Users\azael\source\repos\inventarioproyecto\CapaVistaInventario\obj\Debug\CapaVistaInventario.login.resources
+C:\Users\azael\source\repos\inventarioproyecto\CapaVistaInventario\obj\Debug\CapaVistaInventario.proceso_venta.resources
+C:\Users\azael\Desktop\Proyecto inventario\Modulo\inventarioproyecto\CapaVistaInventario\bin\Debug\CapaVistaInventario.exe.config
+C:\Users\azael\Desktop\Proyecto inventario\Modulo\inventarioproyecto\CapaVistaInventario\bin\Debug\CapaVistaInventario.exe
+C:\Users\azael\Desktop\Proyecto inventario\Modulo\inventarioproyecto\CapaVistaInventario\bin\Debug\CapaVistaInventario.pdb
+C:\Users\azael\Desktop\Proyecto inventario\Modulo\inventarioproyecto\CapaVistaInventario\bin\Debug\CapaControladorInventario.dll
+C:\Users\azael\Desktop\Proyecto inventario\Modulo\inventarioproyecto\CapaVistaInventario\bin\Debug\CapaControladorInventario.pdb
+C:\Users\azael\Desktop\Proyecto inventario\Modulo\inventarioproyecto\CapaVistaInventario\obj\Debug\CapaVistaInventario.Form1.resources
+C:\Users\azael\Desktop\Proyecto inventario\Modulo\inventarioproyecto\CapaVistaInventario\obj\Debug\CapaVistaInventario.login.resources
+C:\Users\azael\Desktop\Proyecto inventario\Modulo\inventarioproyecto\CapaVistaInventario\obj\Debug\CapaVistaInventario.proceso_venta.resources
+C:\Users\azael\Desktop\Proyecto inventario\Modulo\inventarioproyecto\CapaVistaInventario\obj\Debug\CapaVistaInventario.Properties.Resources.resources
+C:\Users\azael\Desktop\Proyecto inventario\Modulo\inventarioproyecto\CapaVistaInventario\obj\Debug\CapaVistaInventario.csproj.GenerateResource.cache
+C:\Users\azael\Desktop\Proyecto inventario\Modulo\inventarioproyecto\CapaVistaInventario\obj\Debug\CapaVistaInventario.csproj.CoreCompileInputs.cache
+C:\Users\azael\Desktop\Proyecto inventario\Modulo\inventarioproyecto\CapaVistaInventario\obj\Debug\CapaVistaInventario.csproj.CopyComplete
+C:\Users\azael\Desktop\Proyecto inventario\Modulo\inventarioproyecto\CapaVistaInventario\obj\Debug\CapaVistaInventario.exe
+C:\Users\azael\Desktop\Proyecto inventario\Modulo\inventarioproyecto\CapaVistaInventario\obj\Debug\CapaVistaInventario.pdb
+C:\Users\azael\Desktop\Proyecto inventario\Modulo\inventarioproyecto\CapaVistaInventario\obj\Debug\CapaVistaInventario.proceso_restock.resources
+C:\Users\azael\Desktop\Proyecto inventario\Modulo\inventarioproyecto\CapaVistaInventario\bin\Debug\CapaModeloInventario.dll
+C:\Users\azael\Desktop\Proyecto inventario\Modulo\inventarioproyecto\CapaVistaInventario\bin\Debug\CapaModeloInventario.pdb
+C:\Users\azael\Desktop\Proyecto inventario\Modulo\inventarioproyecto\CapaVistaInventario\obj\Debug\CapaVistaInventario.mantenimiento_proveedor.resources
+C:\Users\azael\Desktop\Proyecto inventario\Modulo\inventarioproyecto\CapaVistaInventario\bin\Debug\NavegadorVista.dll
+C:\Users\azael\Desktop\Proyecto inventario\Modulo\inventarioproyecto\CapaVistaInventario\bin\Debug\NavegadorControlador.dll
+C:\Users\azael\Desktop\Proyecto inventario\Modulo\inventarioproyecto\CapaVistaInventario\bin\Debug\Seguridad_Controlador.dll
+C:\Users\azael\Desktop\Proyecto inventario\Modulo\inventarioproyecto\CapaVistaInventario\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\azael\Desktop\Proyecto inventario\Modulo\inventarioproyecto\CapaVistaInventario\bin\Debug\Capa_VistaConsultas.dll
+C:\Users\azael\Desktop\Proyecto inventario\Modulo\inventarioproyecto\CapaVistaInventario\bin\Debug\NavegadorModelo.dll
+C:\Users\azael\Desktop\Proyecto inventario\Modulo\inventarioproyecto\CapaVistaInventario\bin\Debug\CapaVistaReporteria.dll
+C:\Users\azael\Desktop\Proyecto inventario\Modulo\inventarioproyecto\CapaVistaInventario\bin\Debug\Modelo_Seguridad.dll
+C:\Users\azael\Desktop\Proyecto inventario\Modulo\inventarioproyecto\CapaVistaInventario\bin\Debug\Capa_ControladorConsultas.dll
+C:\Users\azael\Desktop\Proyecto inventario\Modulo\inventarioproyecto\CapaVistaInventario\bin\Debug\CapaControladorReporteria.dll
+C:\Users\azael\Desktop\Proyecto inventario\Modulo\inventarioproyecto\CapaVistaInventario\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\azael\Desktop\Proyecto inventario\Modulo\inventarioproyecto\CapaVistaInventario\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\azael\Desktop\Proyecto inventario\Modulo\inventarioproyecto\CapaVistaInventario\bin\Debug\Capa_Modelo.dll
+C:\Users\azael\Desktop\Proyecto inventario\Modulo\inventarioproyecto\CapaVistaInventario\bin\Debug\CapaModeloReporteria.dll
+C:\Users\azael\Desktop\Proyecto inventario\Modulo\inventarioproyecto\CapaVistaInventario\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\azael\Desktop\Proyecto inventario\Modulo\inventarioproyecto\CapaVistaInventario\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\azael\Desktop\Proyecto inventario\Modulo\inventarioproyecto\CapaVistaInventario\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\azael\Desktop\Proyecto inventario\Modulo\inventarioproyecto\CapaVistaInventario\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\azael\Desktop\Proyecto inventario\Modulo\inventarioproyecto\CapaVistaInventario\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\azael\Desktop\Proyecto inventario\Modulo\inventarioproyecto\CapaVistaInventario\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\azael\Desktop\Proyecto inventario\Modulo\inventarioproyecto\CapaVistaInventario\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\azael\Desktop\Proyecto inventario\Modulo\inventarioproyecto\CapaVistaInventario\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\azael\Desktop\Proyecto inventario\Modulo\inventarioproyecto\CapaVistaInventario\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\azael\Desktop\Proyecto inventario\Modulo\inventarioproyecto\CapaVistaInventario\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\azael\Desktop\Proyecto inventario\Modulo\inventarioproyecto\CapaVistaInventario\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\azael\Desktop\Proyecto inventario\Modulo\inventarioproyecto\CapaVistaInventario\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\azael\Desktop\Proyecto inventario\Modulo\inventarioproyecto\CapaVistaInventario\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\azael\Desktop\Proyecto inventario\Modulo\inventarioproyecto\CapaVistaInventario\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\azael\Desktop\Proyecto inventario\Modulo\inventarioproyecto\CapaVistaInventario\bin\Debug\stdole.dll
+C:\Users\azael\Desktop\Proyecto inventario\Modulo\inventarioproyecto\CapaVistaInventario\bin\Debug\NavegadorVista.pdb
+C:\Users\azael\Desktop\Proyecto inventario\Modulo\inventarioproyecto\CapaVistaInventario\bin\Debug\NavegadorControlador.pdb
+C:\Users\azael\Desktop\Proyecto inventario\Modulo\inventarioproyecto\CapaVistaInventario\bin\Debug\Seguridad_Controlador.pdb
+C:\Users\azael\Desktop\Proyecto inventario\Modulo\inventarioproyecto\CapaVistaInventario\bin\Debug\Capa_VistaConsultas.pdb
+C:\Users\azael\Desktop\Proyecto inventario\Modulo\inventarioproyecto\CapaVistaInventario\bin\Debug\NavegadorModelo.pdb
+C:\Users\azael\Desktop\Proyecto inventario\Modulo\inventarioproyecto\CapaVistaInventario\bin\Debug\CapaVistaReporteria.pdb
+C:\Users\azael\Desktop\Proyecto inventario\Modulo\inventarioproyecto\CapaVistaInventario\bin\Debug\CapaVistaReporteria.dll.config
+C:\Users\azael\Desktop\Proyecto inventario\Modulo\inventarioproyecto\CapaVistaInventario\bin\Debug\Modelo_Seguridad.pdb
+C:\Users\azael\Desktop\Proyecto inventario\Modulo\inventarioproyecto\CapaVistaInventario\bin\Debug\Capa_ControladorConsultas.pdb
+C:\Users\azael\Desktop\Proyecto inventario\Modulo\inventarioproyecto\CapaVistaInventario\bin\Debug\CapaControladorReporteria.pdb
+C:\Users\azael\Desktop\Proyecto inventario\Modulo\inventarioproyecto\CapaVistaInventario\bin\Debug\Capa_Modelo.pdb
+C:\Users\azael\Desktop\Proyecto inventario\Modulo\inventarioproyecto\CapaVistaInventario\bin\Debug\CapaModeloReporteria.pdb
+C:\Users\azael\Desktop\Proyecto inventario\Modulo\inventarioproyecto\CapaVistaInventario\obj\Debug\CapaVistaInventario.ayuda_productos.resources
+C:\Users\azael\Desktop\Proyecto inventario\Modulo\inventarioproyecto\CapaVistaInventario\obj\Debug\CapaVistaInventario.ayuda_restock.resources
+C:\Users\azael\Desktop\Proyecto inventario\Modulo\inventarioproyecto\CapaVistaInventario\obj\Debug\CapaVistaInventario.ayuda_venta.resources
+C:\Users\azael\Desktop\Proyecto inventario\Modulo\inventarioproyecto\CapaVistaInventario\obj\Debug\CapaVistaInventario.csproj.AssemblyReference.cache
+C:\Users\azael\Desktop\Proyecto inventario\Modulo\inventarioproyecto\CapaVistaInventario\obj\Debug\CapaVistaInventario.mantenimiento_categoria.resources
+C:\Users\azael\Desktop\Proyecto inventario\Modulo\inventarioproyecto\CapaVistaInventario\obj\Debug\CapaVistaInventario.mantenimiento_producto.resources
+C:\Users\azael\Desktop\Proyecto inventario\Modulo\inventarioproyecto\CapaVistaInventario\obj\Debug\CapaVistaInventario.reportecategoria.resources
+C:\Users\azael\Desktop\Proyecto inventario\Modulo\inventarioproyecto\CapaVistaInventario\obj\Debug\CapaVistaInventario.reportecompras.resources
+C:\Users\azael\Desktop\Proyecto inventario\Modulo\inventarioproyecto\CapaVistaInventario\obj\Debug\CapaVistaInventario.reporteproducto.resources
+C:\Users\azael\Desktop\Proyecto inventario\Modulo\inventarioproyecto\CapaVistaInventario\obj\Debug\CapaVistaInventario.reporteproveedor.resources
+C:\Users\azael\Desktop\Proyecto inventario\Modulo\inventarioproyecto\CapaVistaInventario\obj\Debug\CapaVistaInventario.reporteventascs.resources
+C:\Users\azael\Desktop\Proyecto inventario\Modulo\inventarioproyecto\CapaVistaInventario\bin\Debug\CapaVistaInventario.exe.manifest
+C:\Users\azael\Desktop\Proyecto inventario\Modulo\inventarioproyecto\CapaVistaInventario\bin\Debug\CapaVistaInventario.application
+C:\Users\azael\Desktop\Proyecto inventario\Modulo\inventarioproyecto\CapaVistaInventario\obj\Debug\CapaVistaInventario.exe.manifest
+C:\Users\azael\Desktop\Proyecto inventario\Modulo\inventarioproyecto\CapaVistaInventario\obj\Debug\CapaVistaInventario.application
+C:\Users\azael\Desktop\Proyecto inventario\Modulo\inventarioproyecto\CapaVistaInventario\obj\Debug\CapaVistaInventario.mantenimiento_compras.resources
+C:\Users\azael\Desktop\Proyecto inventario\Modulo\inventarioproyecto\CapaVistaInventario\obj\Debug\CapaVistaInventario.mantenimiento_ventas.resources
